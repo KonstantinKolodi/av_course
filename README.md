@@ -46,3 +46,5 @@ colcon build --symlink-install
 source ~/.bashrc
 
 source install/setup.bash
+
+Or try to restart your PC
