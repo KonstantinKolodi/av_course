@@ -7,6 +7,8 @@ git clone https://github.com/KonstantinKolodi/av_course
 
 cd ~/ros2_ws
 
+colcon build --symlink-install
+
 colcon build --packages-select my_robot_controller
 
 source ~/.bashrc
@@ -27,7 +29,11 @@ Corner detection (avoids getting stuck)
 
 Adaptive movement based on LiDAR data
 
+Automated navigation process
+
 # Dependencies
+
+latest TurtleBot3 repository
 
 ROS 2 (Humble)
 
@@ -51,4 +57,4 @@ source ~/.bashrc
 
 source install/setup.bash
 
-Or try to restart your PC
+Or try to restart your PC :)
