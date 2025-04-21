@@ -52,7 +52,3 @@ source ~/.bashrc
 source install/setup.bash
 
 Or try to restart your PC
-<<<<<<< HEAD
-=======
-
->>>>>>> bd01e89 (Deleting old repo)
