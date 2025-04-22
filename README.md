@@ -33,6 +33,8 @@ Automated navigation process
 
 # Dependencies
 
+Ubuntu 22.04
+
 latest TurtleBot3 repository
 
 ROS 2 (Humble)
@@ -42,6 +44,8 @@ turtlebot3_gazebo
 turtlebot3_cartographer
 
 TurtleBot3 Simulation Package
+
+Navigation and SLAM tools (if needed for mapping visualization)
 
 # Troubleshooting
 
